@@ -1,7 +1,7 @@
 
 # Implementation of Chatbot Using NLP
 
-<img src="./images/img1.png"/>
+<img src="./Images/img1.png"/>
 
 ## Overview
 Advancements in Artificial Intelligence (AI) and Natural Language Processing (NLP) have made chatbots an important tool for interacting with computers in a human-like way. This project focuses on building a smart chatbot that uses NLP to improve user experiences in areas like customer service, education, healthcare, and online shopping.
